@@ -1,4 +1,13 @@
 {
-  "name": "Teszt Elek",
-  "valami": "Teszt"
+  "posts": [{
+    "image": "./logo.svg",
+    "title": "Teszt",
+    "body": "body bodybodybodybodybody bodybody body body"
+  },
+  {
+    "image": "./logo.svg",
+    "title": "Teszt",
+    "body": "body bodybodybodybodybody bodybody body body"
+  },
+  ]
 }

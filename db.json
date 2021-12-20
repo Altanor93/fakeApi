@@ -2,12 +2,61 @@
   "posts": [{
     "image": "../logo.svg",
     "title": "Teszt",
-    "body": "body bodybodybodybodybody bodybody body body"
+    "body": "Teszt"
   },
   {
     "image": "../logo.svg",
-    "title": "Teszt",
-    "body": "body bodybodybodybodybody bodybody body body"
-  }
-  ]
+    "title": "Teszt0",
+    "body": "Teszt0"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt1",
+    "body": "Teszt1"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt2",
+    "body": "Teszt2"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt3",
+    "body": "Teszt3"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt4",
+    "body": "Teszt4"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt5",
+    "body": "Teszt5"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt6",
+    "body": "Teszt6"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt7",
+    "body": "Teszt7"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt8",
+    "body": "Teszt8"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt9",
+    "body": "Teszt9"
+  },
+  {
+    "image": "../logo.svg",
+    "title": "Teszt10",
+    "body": "Teszt10"
+  }]
 }

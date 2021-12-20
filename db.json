@@ -1,11 +1,11 @@
 {
   "posts": [{
-    "image": "./logo.svg",
+    "image": "../logo.svg",
     "title": "Teszt",
     "body": "body bodybodybodybodybody bodybody body body"
   },
   {
-    "image": "./logo.svg",
+    "image": "../logo.svg",
     "title": "Teszt",
     "body": "body bodybodybodybodybody bodybody body body"
   }
